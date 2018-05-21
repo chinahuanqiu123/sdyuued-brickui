@@ -9,3 +9,4 @@ This example is a blank version of react-static. It includes::
 To get started, run `react-static create` and use the `blank` template.
 "# sdyuued-brickui" 
 # sdyuued-brickui
+# sdyuued-brickui

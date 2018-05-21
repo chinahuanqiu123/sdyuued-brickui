@@ -1,0 +1,117 @@
+
+a{
+  color: #666;
+
+}
+a:hover{
+
+  color: #0dbd3b;
+
+}
+span{
+
+    color:#666;
+
+}
+
+.ant-carousel .slick-slide {
+  text-align: center;
+
+  line-height: 20px;
+  background: #0d7645;
+  overflow: hidden;
+}
+
+ul.slick-dots  li{
+  background: #0d7645;
+}
+
+
+*{
+
+  margin: 0;
+  padding: 0;
+}
+.row{
+  width: 100%;
+
+
+}
+.item{
+  width: 450px;
+
+
+
+}
+.item li{
+
+  padding-top:10px;
+  list-style: none;
+
+}
+
+a{
+
+  text-decoration: none;
+  color: black;
+
+
+}
+
+
+.item  li  span:first-child{
+
+
+
+}
+.item  li  span:nth-child(2)  {
+
+  float: right;
+  display: inline-block;
+  width: auto;
+  min-width: 100px;
+
+}
+
+
+body {
+  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial,
+    'Lucida Grande', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 120px;
+}
+
+.App-header {
+  background-color: #ddd;
+  height: 170px;
+  padding: 20px;
+  color: black;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
